@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://s2.loli.net/2023/08/21/jRQwNPhs2o5vzHg.png" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">我是天音铃，在校学生，就读高中，喜欢瞎折腾</div>  
   
