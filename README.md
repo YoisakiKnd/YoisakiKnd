@@ -92,3 +92,6 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; object-fit: cover; background: url('https://github.com/YoisakiKnd/YoisakiKnd/blob/main/Image_1717631998453.jpg?raw=true') no-repeat center center; background-size: cover; opacity: 0.5;]{x0000}$}
