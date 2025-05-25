@@ -18,6 +18,8 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+## Most I Used Language
+![my favorite lanuages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoisakiKnd&layout=compact&hide_border=true&langs_count=50)
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YoisakiKnd&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
