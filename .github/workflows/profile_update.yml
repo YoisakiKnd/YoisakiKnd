@@ -66,7 +66,7 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: history
-          plugin_steam: yes
+          plugin_steam: no
           plugin_steam_games_limit: 1
           plugin_steam_playtime_threshold: 2
           plugin_steam_recent_games_limit: 1
