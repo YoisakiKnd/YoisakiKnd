@@ -1,0 +1,6 @@
+blacklist = [ "QQ.exe",]
+
+[settings]
+blur = 5
+blur_enabled = false
+privacy_mode = false
