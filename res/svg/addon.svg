@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="973" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="748" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.margin-lr-auto{margin-left:auto;margin-right:auto}.steam .games{margin-left:28px}.steam .media{display:flex;margin-bottom:4px;width:450px}.steam .media img{margin:0 10px;border-radius:7px}.steam .media&gt;img{height:32px;width:32px}.steam .media .about{flex-grow:1}.steam .media .name{display:flex;align-items:center;justify-content:space-between;font-size:14px;line-height:14px;color:#58a6ff}.steam .media .infos{font-size:12px;color:#666;align-items:center}.steam .media .infos&gt;div{display:inline-flex;align-items:center;margin-right:16px}.steam .media .infos svg{fill:currentColor;height:12px;width:12px;margin:0 4px 0 0}.steam .media .achievement img{height:22px;width:22px;margin-right:6px}.steam .media .achievement .name,.steam .media .infos{display:flex;justify-content:space-between}.steam .media .achievement .name&gt;div:first-child{max-width:280px}.steam .media .achievement .description{overflow:hidden;text-overflow:ellipsis;display:block;width:344px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.steam .media .achievement .unlocked{font-size:12px;color:#666;font-style:italic;flex-shrink:0}.steam .media .achievement .ellipsis{margin-left:18px}.achievement{display:flex;margin:4px 0}.achievement .text{font-size:12px;color:#666}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.tracklist{display:flex;flex-direction:column;align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.field svg,.track img{flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.steam .media .about,.track .infos{flex-grow:1}.steam .games{margin-left:28px}.steam .media{display:flex;margin-bottom:4px;width:450px}.steam .media img,.track img{margin:0 10px;border-radius:7px}.steam .media&gt;img{height:32px;width:32px}.steam .media .name{display:flex;align-items:center;justify-content:space-between;font-size:14px;line-height:14px;color:#58a6ff}.steam .media .infos{font-size:12px;color:#666;align-items:center}.steam .media .infos&gt;div{display:inline-flex;align-items:center;margin-right:16px}.steam .media .infos svg{fill:currentColor;height:12px;width:12px;margin:0 4px 0 0}.steam .media .achievement img{height:22px;width:22px;margin-right:6px}.steam .media .achievement .name,.steam .media .infos{display:flex;justify-content:space-between}.steam .media .achievement .name&gt;div:first-child{max-width:280px}.steam .media .achievement .description{overflow:hidden;text-overflow:ellipsis;display:block;width:344px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.steam .media .achievement .unlocked{font-size:12px;color:#666;font-style:italic;flex-shrink:0}.steam .media .achievement .ellipsis{margin-left:18px}.achievement{display:flex;margin:4px 0}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -13,101 +13,51 @@
                     </svg>
                     Lines of code pushed
                 </h2>
-                <div class="row margin-bottom">
-                    <h3 class="margin-lr-auto">Diff history</h3>
-                    <svg xmlns="http://www.w3.org/2000/svg" width="480" height="315">
-                        <g transform="translate(0,276)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
-                            <path class="domain" stroke="currentColor" d="M39.5,6V0.5H441.5V6"/>
-                            <g class="tick" opacity="1" transform="translate(42.49107142857143,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">October</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(98.125,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">November</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(151.96428571428572,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">December</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(207.59821428571428,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">2025</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(263.23214285714283,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">February</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(313.48214285714283,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">March</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(369.11607142857144,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">April</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(422.95535714285717,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">May</text>
-                            </g>
-                        </g>
-                        <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
-                            <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,21.87912087912088)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">400</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,51.65934065934065)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">300</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,81.43956043956044)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">200</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,111.2197802197802)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">100</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,141)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,170.7802197802198)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−100</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,200.56043956043956)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−200</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,230.34065934065933)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−300</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,260.1208791208791)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−400</text>
-                            </g>
-                        </g>
-                        <path d="M39,140.5L441,140.5L441,5L39,38.652Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L441,140.5L441,140.798L39,188.744Z" fill="rgb(218, 54, 51)"/>
-                    </svg>
-                </div>
             </section>
             <section>
                 <h2 class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"/>
                     </svg>
+                    Suggested tracks
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="field error">
+                        <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
+                                <path fill-rule="evenodd" d="M2.002 2.725a.75.75 0 01.797-.699C8.79 2.42 13.58 7.21 13.974 13.201a.75.75 0 11-1.497.098 10.502 10.502 0 00-9.776-9.776.75.75 0 01-.7-.798zM2 13a1 1 0 112 0 1 1 0 01-2 0zm.84-5.95a.75.75 0 00-.179 1.489c2.509.3 4.5 2.291 4.8 4.8a.75.75 0 101.49-.178A7.003 7.003 0 002.838 7.05z"/>
                             </svg>
-                            Unexpected error
+                            From YouTube Music
+                        </div>
+                        <div class="tracklist">
+                            <div class="track">
+                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">なんのP！？！？！？ - What is P !?!?!?</div>
+                                    <div class="artist">Pmarusama</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">みちづれ</div>
+                                    <div class="artist">星街すいせい</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAA8ADwDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAIDBQYEAf/EADUQAAIBAwMCBAIIBgMAAAAAAAECAwAEEQUSITFBBhMiURSBByMyUmFxkaEVFiRjweGy8PH/xAAbAQABBQEBAAAAAAAAAAAAAAAEAAECBQcGA//EACYRAAICAgAGAgIDAAAAAAAAAAECAAMEEQUSITFBYYGxE1GR0fD/2gAMAwEAAhEDEQA/ANzRRXFql1HbQAySeXkgsc44BGfmRxxzzxWMohdgo7maGzBRsyaS4ClkjVnlztUYIG7rgnpXJb3JmvHRpX9GNzBQqnr0HOVPPJPGMda5reGScIbqIKy5jaJZN0YYkc54Jbk84yd2Dg5xcadoVykCJHZ3L+WAFDxsnQcHDdT39+asa8RmUitSx9Df1/uvmCtcoILkAezqPRTzwy27AXEUkWeFLoVBP4E8H5UlV9lT1Ny2KQfY1CUdXG1OxCiiioScKhMfmyxLtDTy5RY9w9ZwWxz+Ck/kDUpzxtx1qu1bw1J4qlt9PXyFt23C4eVA2yI4yyKQQXzgDPAJycgbSbw6gZGSlR7EwbLtNVTOO4mt+jmGC58NaXq/lf1F9aR3GCc+SroGEak/h1PVjz0wBrKp1eDRLawsbOBUtY/qliQE+XEilVx267Bk8YyanGoOAhkiHbeERz25wSAMZ/UD3rUq6kqUJWNATjWZrDzN1MpfpA11tF061iWfT7eXULpbdJ9QTNvEgVpJGkG5cgIjY9Q5IFZHQ9bs9djvZdPaB/gpVguvhp/PgR2G5WjlH24zzgkBgRtIzith4i0bS/GVlDZ6tAXSK58yF0cxyxHYWWRe6np2x2NReFPCA0O21q1m1CbUHv5FkEs0aqyKIwirhcLwVLZAA9XTNCcRwK86k1sOuuh8g+Pj9z3xcl8azmB6eR6lKc5HTb/nt/mvajBBRGkXHTj2J/8AakrLCCOhnZg7nhwGUtx2HPXPb86u/CWP4nKf7J/5LVLU+l30un3KzrEr7l2OmeNpYEke5wCPnVjwi9KMyuyw6A39GCZ1bWUMi9z/AHLHUNGtGXUbrUNQv4bJpZJpY0u2t441XryhDbcKSfVzk5rk/mnwnrbxaVDrlpcNcMqpHBcMrOcbgAykHt79eDzxTa9LHqNnqFtdK0lhqUQX4ZjskRWUq/qUkAelSMgnJPaqm30vQYLO0t49DgCWssU8JD7WEkeCrlgoJOQOuc+1aDdxTEpbkssAPf8AmUNGK9ic3KZqPDmgW2lam8lu12/1TDNxfT3JXcwIx5jNt4HQfdzV3Lcw20sss0qogULycbioZyAD1OOflVDpuuDzGW62wvK+PMxhIkC5A68nJPOAOeemDw67Fbu3xC6jHey8bkHPIx9nGQOg446ZzULuJ1ig30EP62B9/XeeC4jG38b7X43K0ZCJ6T+Qxx/qmrwZyem3/ua9rMWJY7M68DQ1ClIbnaw7ds9+f2pqKiDHiIpXj08sTwMdaAr7cbhwCM479jT0U+4tRSG+97dv1oAb7w6+37f7pqKW4tRVBCgNgsB1xjmmoopop//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">コぇちっちゃ＜てゴ×ンネ - my voic3 is s0 quiet...s0rry</div>
+                                    <div class="artist">KAFU</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">And Revive The Melody</div>
+                                    <div class="artist">ONGEKI Sound Jewelry 01</div>
+                                </div>
+                            </div>
                         </div>
                     </section>
                 </div>
@@ -122,7 +72,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
