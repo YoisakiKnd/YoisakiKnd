@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="958" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1122" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.margin-lr-auto{margin-left:auto;margin-right:auto}.steam .games{margin-left:28px}.steam .media{display:flex;margin-bottom:4px;width:450px}.steam .media img{margin:0 10px;border-radius:7px}.steam .media&gt;img{height:32px;width:32px}.steam .media .about{flex-grow:1}.steam .media .name{display:flex;align-items:center;justify-content:space-between;font-size:14px;line-height:14px;color:#58a6ff}.steam .media .infos{font-size:12px;color:#666;align-items:center}.steam .media .infos&gt;div{display:inline-flex;align-items:center;margin-right:16px}.steam .media .infos svg{fill:currentColor;height:12px;width:12px;margin:0 4px 0 0}.steam .media .achievement img{height:22px;width:22px;margin-right:6px}.steam .media .achievement .name,.steam .media .infos{display:flex;justify-content:space-between}.steam .media .achievement .name&gt;div:first-child{max-width:280px}.steam .media .achievement .description{overflow:hidden;text-overflow:ellipsis;display:block;width:344px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.steam .media .achievement .unlocked{font-size:12px;color:#666;font-style:italic;flex-shrink:0}.steam .media .achievement .ellipsis{margin-left:18px}.achievement{display:flex;margin:4px 0}.achievement .text{font-size:12px;color:#666}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.margin-lr-auto{margin-left:auto;margin-right:auto}.tracklist{display:flex;flex-direction:column;align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.field svg,.track img{flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.steam .media .about,.track .infos{flex-grow:1}.steam .games{margin-left:28px}.steam .media{display:flex;margin-bottom:4px;width:450px}.steam .media img,.track img{margin:0 10px;border-radius:7px}.steam .media&gt;img{height:32px;width:32px}.steam .media .name{display:flex;align-items:center;justify-content:space-between;font-size:14px;line-height:14px;color:#58a6ff}.steam .media .infos{font-size:12px;color:#666;align-items:center}.steam .media .infos&gt;div{display:inline-flex;align-items:center;margin-right:16px}.steam .media .infos svg{fill:currentColor;height:12px;width:12px;margin:0 4px 0 0}.steam .media .achievement img{height:22px;width:22px;margin-right:6px}.steam .media .achievement .name,.steam .media .infos{display:flex;justify-content:space-between}.steam .media .achievement .name&gt;div:first-child{max-width:280px}.steam .media .achievement .description{overflow:hidden;text-overflow:ellipsis;display:block;width:344px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.steam .media .achievement .unlocked{font-size:12px;color:#666;font-style:italic;flex-shrink:0}.steam .media .achievement .ellipsis{margin-left:18px}.achievement{display:flex;margin:4px 0}.achievement .text{font-size:12px;color:#666}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -18,26 +18,78 @@
                     <svg xmlns="http://www.w3.org/2000/svg" width="480" height="315">
                         <g transform="translate(0,276)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
                             <path class="domain" stroke="currentColor" d="M39.5,6V0.5H441.5V6"/>
-                            <g class="tick" opacity="1" transform="translate(240.5,0)">
+                            <g class="tick" opacity="1" transform="translate(63.42857142857143,0)">
                                 <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">08 AM</text>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Tue 27</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(92.14285714285714,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Thu 29</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(120.85714285714286,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sat 31</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(135.21428571428572,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">June</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(163.92857142857142,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Tue 03</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(192.64285714285714,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Thu 05</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(221.35714285714286,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sat 07</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(250.07142857142856,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Mon 09</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(278.7857142857143,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Wed 11</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(307.5,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Fri 13</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(336.2142857142857,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Jun 15</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(364.92857142857144,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Tue 17</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(393.64285714285717,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Thu 19</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(422.35714285714283,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sat 21</text>
                             </g>
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,15.566072668363791)">
+                            <g class="tick" opacity="1" transform="translate(0,31.79185976224058)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">8.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,46.92455450127284)">
+                            <g class="tick" opacity="1" transform="translate(0,59.09389482168043)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">6.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,78.2830363341819)">
+                            <g class="tick" opacity="1" transform="translate(0,86.39592988112028)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">4.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,109.64151816709094)">
+                            <g class="tick" opacity="1" transform="translate(0,113.69796494056014)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">2.0k</text>
                             </g>
@@ -45,25 +97,25 @@
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,172.35848183290906)">
+                            <g class="tick" opacity="1" transform="translate(0,168.30203505943985)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−2.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,203.71696366581813)">
+                            <g class="tick" opacity="1" transform="translate(0,195.60407011887972)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−4.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,235.07544549872713)">
+                            <g class="tick" opacity="1" transform="translate(0,222.90610517831956)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−6.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,266.43392733163626)">
+                            <g class="tick" opacity="1" transform="translate(0,250.2081402377594)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−8.0k</text>
                             </g>
                         </g>
-                        <path d="M240,140.5L240,5Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M240,140.5L240,160.444Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L441,140.5L441,5L39,63.058Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L441,140.5L441,173.576L39,149.155Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -72,14 +124,45 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"/>
                     </svg>
+                    Suggested tracks
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="field error">
+                        <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
+                                <path fill-rule="evenodd" d="M2.002 2.725a.75.75 0 01.797-.699C8.79 2.42 13.58 7.21 13.974 13.201a.75.75 0 11-1.497.098 10.502 10.502 0 00-9.776-9.776.75.75 0 01-.7-.798zM2 13a1 1 0 112 0 1 1 0 01-2 0zm.84-5.95a.75.75 0 00-.179 1.489c2.509.3 4.5 2.291 4.8 4.8a.75.75 0 101.49-.178A7.003 7.003 0 002.838 7.05z"/>
                             </svg>
-                            Unexpected error
+                            From YouTube Music
+                        </div>
+                        <div class="tracklist">
+                            <div class="track">
+                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Little Wish</div>
+                                    <div class="artist">Little Wish</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">再会系女子はどうすりゃいいですか？ - Saikaikeijosi ha Dousuryaiidesuka</div>
+                                    <div class="artist">Rie Ayase</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">ライアーダンサー - Liar Dancer</div>
+                                    <div class="artist">masarada</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAA8ADwDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAABgQFAgMHAQj/xAAyEAACAgEDAgUCBAUFAAAAAAABAgMRBAUSIQAxBhNBUWEicRQyM5EVI0KBoTRSscHw/8QAGQEAAwEBAQAAAAAAAAAAAAAAAQMEBQIA/8QAKREAAQQCAQMCBgMAAAAAAAAAAQACAxESIQQxQWEicQUyobHB8FGBkf/aAAwDAQACEQMRAD8A+i8rIjix2kZyNoss5pAP/X25PNdUMniPHWTiPOMV/qWi3fqFPNfc/frT4kkng0VXzURUeRV3M1hTTcmq4HHtdD+9dH4bwtTxjm4wzFVHeMxNHUhYEiyGI/55AB9+ppnvDsWLV4ogLA+axd/RWmb4tw0kMeB5mbKp2vtYIsZqyDfIaqNfPcdVj+LMiPUpEJxmgjAUnfXmNxZv070BZ5Nn2FdoWVpGBqMo1XbNkuRHjjy9/wBS3Z29t3Aq+/YevRrUfGOt5OY8+DkQaZh94oaUArz34tuxBJNXdV267Y/JocU6P4bM+YtbVA3Z7gjQ97vfhdNg8WYjTPA4yAV7tCVdOQDXv/jrTqOvhZwuJE0kbAMHMhAo1VAEf5N3xQ7dA9W8WzSae+Nq2m4y6lG8KGcCpIwG3cgCgLCAGwDv+bKPSYciSMYkeEZopmHmys4rGRVLABBySbIvjj54FkWNZO3Va/Kyudx+TCWxnRN7FUR1+yQ4GqtmtJiouzLAtR5oIYAi6Poeex/f2toBOyXKGRr7X0a0zS9Sw87TmzFx4oYfyFVJk+pSzhmuuLAAoc8g9LXILsSK5sWPTv1zLhl6EeK+TANkG/5VPNFkZGXlRZkwkxNyNFjtGFF7uPquzftwea56MaZ4qzsTbo3lrn6hiyCLIjxhveONmARjdCqZCWPFcn2LHI86CbMnkeoEEZVBR4BO/wCbI4oda44hHktIYvLmUgtvfeWG3bRa7bgA9yDV+56mIFqsS4gggELjWoviZGRNlNKxTFiMsDMP13d9qdqNEq3oKo1XcN/D/h2LxRhYeVqUeNHFFEoXyNwk4YsyuWJsG2PwG7nv0f13R31XPfIjxcjGgEgkjEsDIBH6fS1bRXYd7vt0l0HwpJ4dXMGPqsn4qQL5qpIURGIB3hTf1VxdUaAINciMenXRanPnDI2ua4h3j7fVU3itJMTXhp2bnrk5GViy/qRpEpkZGWPtQ42qBf7nmp3hWXUYM9mCfw10iiEuPO+4HdwHTiytqeODZ9Oazz/AeDFNnalLkZEuVLkxyhizMED0rDc35j2PxtCiubVZuJjZmJ/C5bmheNsXK3KV3xOu02SeWoAXzxfuD08ZNBA7rK5csJijaN1386v30aWWJnZEsMn4txK0hAjaOMoFI5oiyB88k9xfbq4gyROhdIkFMQeD6dEtKh07TsP+A6JjToolYxRO1hCzk79xtjzbXzwel+Pp/koV/EOSTZIAAuvbodBtZ7Hh0hA20LHFhjmyJ6YbiqhSoP5bI79ibv7fF9SZEG3cSIoYhuDsw2gAc/2r36F6V4qxH01JMydoNS0+KmAPE4A7KCaO4AfTdg1RPBJnM1KLxTnwweIciXAwHSRJ1xJmiimUoa3E8nnmhdnb9uuAc25N2qZQIpxDOcSfF/57pprObC/4LCkl8rIy4zMkZFo44G3cONwscEi77+2eNFnL5j5IgTIYJEvnSbd+wDe1i+SASBz6g9r6MLqkGrahDn4f8rDxYji4tuiM4umarAAuuOOKsDkBU2RLl4kGfI8uL5bAKqv/AC2DfTu4/MKb14B5rgHotdrwqpWGNoZ37/3+hR8vGyay44o1aGZklEl8AA7vvZY+l0BfNgdZYkOQsjKYgUJAM1UgUD1N8evfmvQdurGQZeDihZGGQllvNcgMvN7aHBA+KPofcnI9SMXnk5IOOr7pYfMBMYv1HfdZH08X6+nTGkuCzeY4loB6KywcdDqWVNg5UiZzHajTgMKVvqG0Vwf32+o6R+bHvkVpApVq+o+4B/76BYOqYy+J45cWWJ0mMQf0eySAeebsAVXYdKMvEnky5mEO5d1KeOwFdLeaR4zBiMiACLCgalocWViriMqJB+rvjNGNy/Pljkgcmx2549wPz9Cn0rVPLZlVGiMiykiMN9SgirtSD80QaFf09Mj06EZAmBbzo42RZCAWC2CV3EXRIBPPoOvcrQ8HUET8YkshQ2p81gRdWLB7dv2HqOgwn5exTy2MStmcLI/fzaC6Xp+fimR5VlAKo52Cy6AmyWPpz25NDgno7q/+tBzvw8kU8rJCzAETBmIVI19TZNj/AHWR3B667FhY+NiSrBEqLSqAP6QAKr7X1DjVNqIY4yhT8pQV7V267jAY7IJHKYeXYca32XOY454MSNcyOSLIZRTTMQXkXcpYX3N0Q13VV3HVrqmnGQIjRb8hX+l5ZiSrdrAUFaq+SB356ZLjRZMPltHGkYApVjWuO3cHtQ60eJcFZohmLNLDKi7ajqiCa5BB9h+33681oDrVrpBNUTx6SCD5Rfwno8Uz42fPMfJiO4RqDbEFSoBPLL2bgC+Pt0ywmzpoLy5fw8wYgrGisp+QTd3fx7fPUjBwIMPDhggDCOKJY0BN0oHA+O3p1t8tR2v9+g59m1JFAyNuDegX/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">愛♡スクリ～ム！ - AI SCREAM!</div>
+                                    <div class="artist">AiScReam</div>
+                                </div>
+                            </div>
                         </div>
                     </section>
                 </div>
@@ -94,7 +177,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #00CBB0">Your fortune: ｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━ !!!!</b>
                         </div>
                     </section>
                 </div>
