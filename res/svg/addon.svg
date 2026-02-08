@@ -18,52 +18,88 @@
                     <svg xmlns="http://www.w3.org/2000/svg" width="480" height="315">
                         <g transform="translate(0,276)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
                             <path class="domain" stroke="currentColor" d="M39.5,6V0.5H441.5V6"/>
-                            <g class="tick" opacity="1" transform="translate(240.5,0)">
+                            <g class="tick" opacity="1" transform="translate(71.4047619047619,0)">
                                 <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">08 AM</text>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Jul 13</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(104.9047619047619,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Jul 20</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(138.4047619047619,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Jul 27</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(171.9047619047619,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Aug 03</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(205.4047619047619,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Aug 10</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(238.9047619047619,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Aug 17</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(272.4047619047619,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Aug 24</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(305.9047619047619,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Aug 31</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(339.4047619047619,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sep 07</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(372.9047619047619,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sep 14</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(406.4047619047619,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sep 21</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(439.9047619047619,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sep 28</text>
                             </g>
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,15.566072668363791)">
+                            <g class="tick" opacity="1" transform="translate(0,10.607056936647957)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">8.0k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">60k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,46.92455450127284)">
+                            <g class="tick" opacity="1" transform="translate(0,54.071371291098636)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">6.0k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">40k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,78.2830363341819)">
+                            <g class="tick" opacity="1" transform="translate(0,97.53568564554932)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">4.0k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,109.64151816709094)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">2.0k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">20k</text>
                             </g>
                             <g class="tick" opacity="1" transform="translate(0,141)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,172.35848183290906)">
+                            <g class="tick" opacity="1" transform="translate(0,184.46431435445066)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−2.0k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">−20k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,203.71696366581813)">
+                            <g class="tick" opacity="1" transform="translate(0,227.92862870890136)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−4.0k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">−40k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,235.07544549872713)">
+                            <g class="tick" opacity="1" transform="translate(0,271.39294306335205)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−6.0k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,266.43392733163626)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−8.0k</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">−60k</text>
                             </g>
                         </g>
-                        <path d="M240,140.5L240,5Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M240,140.5L240,160.444Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L441,140.5L441,5L39,54.549Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L441,140.5L441,168.902L39,140.502Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -84,13 +120,6 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">KAWAII KAIWAI -Chinese Ver.”喵喵心跳 ”-（モバイルゲーム「ストリノヴァ」テーマソング） - KAWAII KAIWAI -Chinese Ver. -(Mobile Game“Strinova”Theme Song)</div>
-                                    <div class="artist">@onefive</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAA8ADwDASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAABgcACAEEBQID/8QANBAAAQIFAgQDBwIHAAAAAAAAAQIDAAQFESESMQYHE0EiUXEIFDJhgZGxI8EVQmJykqHw/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQIAAwQF/8QAIhEAAgEEAgIDAQAAAAAAAAAAAAECAxESMQQhIjITYfCh/9oADAMBAAIRAxEAPwCucSJGwllKm5dYOFEoXYHBBBz22UkfSFHNePoWnEglSNIBtdWPpmOlRqRM1KcZakmFOuj4tICglWq91HYJsb32Nrbwc0vl3NFtldUqKW1p0lSGEFWwIHjNuxHbtDxpylpAckhZttleogpCU/GonCRcC5PYXIHqQPKHZLgo5WoB1JIo/lkHowc8F8KNU2Rl6dTGVLUUnW85uuwuSVHFs+dhf0jR4opwn6NNy0uPHNMrYAHcqQbfn8QKFZZY22bK3CcKeeXa2iskZiWIJSoaVpNlJO6SOxHrEhTISCHhGluVubTJM+EJOpxWLJSSDqt3+BI+sD0OHk1Sj/BlTTaNczPPltva5CToCQfmq/3iylHKVmCTsgpolJk6LIIlKe102k5Uf5lm1tSj3OP28oL6Vw85M9N1xxPQUypzxAjNr7DJHoRHunUR9DKZpEr76QSSjQrS2U5yQbnIIItbteO5T+JS5MLe4gDSQhB6b8ug6rZOk/fHqYtnXS8YMK49Rxza6NrhWpmmNVSVRJSkxLMpLi5glSQoA2CSSFE3JNhfucneBKdvNOrdc/RSlZUlpoAdMAmyR9/XF/ONmWekJybWxSkvypduG2nVghfknV2PYA3Ha4xHTq9Bl6bSKfNTC3/fZlRUtlYuNN7q3AN7FI+sYpKpCV31Y6tJ0JJ49uXX3r92Vu52MJY4rkg0/wBWXcp7brQ0BOnU44FAgd9SVEm533IAhfwzPaAIZ4wp1OU0lMxT6chl5aR8alOuLtb+nUR5nJxCzi6fszkrRItFyY4bZqnA0hMrdTpal0ENDJUSApRUncpyBcHcxV2LEcippyoUmltS5USwroTKWzs2hYJ1Z206TDU3ZOxGrtIslSKLL0ekJlJUZaSLrJysjJJ+RN8beWwhW16V9zrE2yEqSjqFSLpt4TkW+WbfSHE8s3dsdtKdvnn8/wCoHuJ6W3VJVQQjVMlsraIAB1bgX2sbkeXftcUVI5I1cLkfDU70xUolW1VCVcV4Ww8jq/26hc47iDMrbqTUxUlvptTlKTLpecQ02L20i5G2Rv6G+YG25Nw9dTv6DLCtLzqwSGzc4IFyTcHYfaOPx5zCkaHwdNychJuhLiEhJec8bqgQb6BcAarAm5AEGjnNLLSL+eqUJXh7P9/RBc1p0T3HdQWHVPKb0tLWrcrFyq5GDlRNxjMCUZcWt1xbrytbq1Fa1W3UTcn7kmMQ7d3c566JDH5D19VH45lZdRuzNLBGL6VpvkDa+kq+whcQScu0g8Z009wXLf4KH7wYeyBLRcjmnxfR+DKVOTNQmmmZ6debaZbBJWooAUVWT4rAA52uQO4EJarc85N+X91lFVLQtQClIWrIvsStV7bbdsZjke0tUnay/wAMzk0hpL/uqwpTabasg5yf+MJOC/F2sRN22NCqc1piaaS3KsLQAVFK5xwu6CQM6BjO2/aAGrVaZqE9MTL77rrjg0hajbSAQQEjsMD8xzYkCU3LZErHpatS1qCdNySAO1zt6R5iRIUJ/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">1000年生きてる - living millennium</div>
@@ -98,17 +127,24 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">ラヴィ - Lavie</div>
-                                    <div class="artist">THREEE</div>
+                                    <div class="name">ヤミナベ!!!! - YAMINABE!!!! (feat. Hatsune Miku)</div>
+                                    <div class="artist">cosMo@Bousou-P</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">サッドガール・セックス - Sad Girl Sex</div>
-                                    <div class="artist">DECO*27</div>
+                                    <div class="name">祝福</div>
+                                    <div class="artist">YOASOBI</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Plazma</div>
+                                    <div class="artist">Kenshi Yonezu</div>
                                 </div>
                             </div>
                         </div>
@@ -125,7 +161,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
