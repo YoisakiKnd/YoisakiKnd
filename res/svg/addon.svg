@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="973" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1137" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.margin-lr-auto{margin-left:auto;margin-right:auto}.steam .games{margin-left:28px}.steam .media{display:flex;margin-bottom:4px;width:450px}.steam .media img{margin:0 10px;border-radius:7px}.steam .media&gt;img{height:32px;width:32px}.steam .media .about{flex-grow:1}.steam .media .name{display:flex;align-items:center;justify-content:space-between;font-size:14px;line-height:14px;color:#58a6ff}.steam .media .infos{font-size:12px;color:#666;align-items:center}.steam .media .infos&gt;div{display:inline-flex;align-items:center;margin-right:16px}.steam .media .infos svg{fill:currentColor;height:12px;width:12px;margin:0 4px 0 0}.steam .media .achievement img{height:22px;width:22px;margin-right:6px}.steam .media .achievement .name,.steam .media .infos{display:flex;justify-content:space-between}.steam .media .achievement .name&gt;div:first-child{max-width:280px}.steam .media .achievement .description{overflow:hidden;text-overflow:ellipsis;display:block;width:344px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.steam .media .achievement .unlocked{font-size:12px;color:#666;font-style:italic;flex-shrink:0}.steam .media .achievement .ellipsis{margin-left:18px}.achievement{display:flex;margin:4px 0}.achievement .text{font-size:12px;color:#666}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.margin-lr-auto{margin-left:auto;margin-right:auto}.tracklist{display:flex;flex-direction:column;align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.field svg,.track img{flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.steam .media .about,.track .infos{flex-grow:1}.steam .games{margin-left:28px}.steam .media{display:flex;margin-bottom:4px;width:450px}.steam .media img,.track img{margin:0 10px;border-radius:7px}.steam .media&gt;img{height:32px;width:32px}.steam .media .name{display:flex;align-items:center;justify-content:space-between;font-size:14px;line-height:14px;color:#58a6ff}.steam .media .infos{font-size:12px;color:#666;align-items:center}.steam .media .infos&gt;div{display:inline-flex;align-items:center;margin-right:16px}.steam .media .infos svg{fill:currentColor;height:12px;width:12px;margin:0 4px 0 0}.steam .media .achievement img{height:22px;width:22px;margin-right:6px}.steam .media .achievement .name,.steam .media .infos{display:flex;justify-content:space-between}.steam .media .achievement .name&gt;div:first-child{max-width:280px}.steam .media .achievement .description{overflow:hidden;text-overflow:ellipsis;display:block;width:344px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.steam .media .achievement .unlocked{font-size:12px;color:#666;font-style:italic;flex-shrink:0}.steam .media .achievement .ellipsis{margin-left:18px}.achievement{display:flex;margin:4px 0}.achievement .text{font-size:12px;color:#666}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -18,49 +18,41 @@
                     <svg xmlns="http://www.w3.org/2000/svg" width="480" height="315">
                         <g transform="translate(0,276)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
                             <path class="domain" stroke="currentColor" d="M39.5,6V0.5H441.5V6"/>
-                            <g class="tick" opacity="1" transform="translate(74.3051948051948,0)">
+                            <g class="tick" opacity="1" transform="translate(41.95421245421245,0)">
                                 <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Jul 13</text>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">April</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(110.85064935064935,0)">
+                            <g class="tick" opacity="1" transform="translate(86.13003663003663,0)">
                                 <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Jul 20</text>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">May</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(147.3961038961039,0)">
+                            <g class="tick" opacity="1" transform="translate(131.77838827838826,0)">
                                 <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Jul 27</text>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">June</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(183.9415584415584,0)">
+                            <g class="tick" opacity="1" transform="translate(175.95421245421247,0)">
                                 <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Aug 03</text>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">July</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(220.487012987013,0)">
+                            <g class="tick" opacity="1" transform="translate(221.60256410256412,0)">
                                 <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Aug 10</text>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">August</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(257.03246753246754,0)">
+                            <g class="tick" opacity="1" transform="translate(267.25091575091574,0)">
                                 <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Aug 17</text>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">September</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(293.5779220779221,0)">
+                            <g class="tick" opacity="1" transform="translate(311.4267399267399,0)">
                                 <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Aug 24</text>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">October</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(330.1233766233766,0)">
+                            <g class="tick" opacity="1" transform="translate(357.07509157509156,0)">
                                 <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Aug 31</text>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">November</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(366.66883116883116,0)">
+                            <g class="tick" opacity="1" transform="translate(401.2509157509158,0)">
                                 <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sep 07</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(403.2142857142857,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sep 14</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(439.7597402597403,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sep 21</text>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">December</text>
                             </g>
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
@@ -94,8 +86,8 @@
                                 <text fill="currentColor" x="-9" dy="0.32em">−60k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L221.727,140.5L404.455,140.5L441,140.5L441,140.289L404.455,138.397L221.727,5L39,60.927Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L221.727,140.5L404.455,140.5L441,140.5L441,140.921L404.455,140.502L221.727,140.502L39,140.502Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L111.154,140.5L162.692,140.5L173,140.5L183.308,140.5L234.846,140.5L441,140.5L441,140.303L234.846,5L183.308,60.927L173,138.788L162.692,137.917L111.154,123.825L39,137.993Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L111.154,140.5L162.692,140.5L173,140.5L183.308,140.5L234.846,140.5L441,140.5L441,140.504L234.846,140.502L183.308,140.502L173,140.548L162.692,142.816L111.154,141.289L39,140.502Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -104,14 +96,45 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"/>
                     </svg>
+                    Suggested tracks
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="field error">
+                        <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
+                                <path fill-rule="evenodd" d="M2.002 2.725a.75.75 0 01.797-.699C8.79 2.42 13.58 7.21 13.974 13.201a.75.75 0 11-1.497.098 10.502 10.502 0 00-9.776-9.776.75.75 0 01-.7-.798zM2 13a1 1 0 112 0 1 1 0 01-2 0zm.84-5.95a.75.75 0 00-.179 1.489c2.509.3 4.5 2.291 4.8 4.8a.75.75 0 101.49-.178A7.003 7.003 0 002.838 7.05z"/>
                             </svg>
-                            Unexpected error
+                            From YouTube Music
+                        </div>
+                        <div class="tracklist">
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAA8ADwDASIAAhEBAxEB/8QAHQAAAQQDAQEAAAAAAAAAAAAAAAECBAcDBQkIBv/EADcQAAEDAwIDBgIHCQAAAAAAAAEAAgMEBRESIQYHMRMVQVWU0SJRCDdxdYGRsxQjMkJSYWLB8P/EABsBAAEFAQEAAAAAAAAAAAAAAAABAgMEBQYH/8QAKxEAAQMBBAgHAAAAAAAAAAAAAQACEQMEBRJRExQhMUGRoeEGFkNTYXHR/9oADAMBAAIRAxEAPwD0USB1I/PCTU35j8x/3io1xpWVlP2MkTJW6s4c4tx/cHB3Ws7hga5hbADoLXDVOeoLP8egDBj8enVeZDDxK0lvAQRsQfxylUO1UMVvo46eFumNjWtA16tmtDRvgeDQphSSOCEFNKVIVC8pQmOI6HG+yaeq190slvudwtldXQGWotsrpqV+tzdDnN0k4Bwdj45U89VUqRshOCzoQgq5KagIQhKEISJSkKjclTHJhTz8kwqm9OCzOcG41EDJwN8ZKUqs+eV3gsNLwdc6sZp6biGB0m4GB2M4zk7ADKwVnOjhGHiF0EFydUQRUbqiWRjS1mMsI0h2NbtLi7Dc7NP2LZbY6tRgfTBMz0UReAYKtMIVcUnN3hEVVJSyXmE9pHUuM27hmE7nIz8JDXlp/m07ZU+3c0uEqyhtFT3xRxNuLnRDXK1vZPaDlrwSCN24BxvkEbHKabJXbvYeX3+IxtzX2FbUfs0HaadX7xjMZx/E4N/2sxVU3jnZwO6g1NucjoxLEdTIS7cTO2wNwcROduOhafEKdT83eFaqvqaHvWKGaK4Mo2u0nQ4OOQdeNOCGP+zYdcZH2G0RJYeR+ECo3NWMfmmFV/W8x+GbjUMtdJc2mv7xpYGRsJOsmoaB8TdsEMccE7gj+oBffu6rNr0X0oxgiVI1wO5Up9MH6tLZ97xfozLx8ultVS09YwR1dPDPGDqDZWBwB3GcHxUXuS0+V0Hpmey6e776Fio6Isnbn2VZ9HGZlc3ELpGLJafK6D07PZL3JafK6D07PZXvMzfb69kzVjmubaF0j7ktPldB6dnsk7ktPldB6ZnsmnxO0el17I1Y5rwJyx+snhP72pP1mLoMeqhMtFsjeySO20TJGnU1zYGAgjcEHHVTSucvm8xeD2uDcMDOVYo09GIX/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">勇者</div>
+                                    <div class="artist"></div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Wonderland Reverie</div>
+                                    <div class="artist"></div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">テレキャスタービーボーイ (long ver.)</div>
+                                    <div class="artist"></div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">カラカラ！ - Karakara!</div>
+                                    <div class="artist"></div>
+                                </div>
+                            </div>
                         </div>
                     </section>
                 </div>
@@ -126,7 +149,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #6023F8">Your fortune: Outlook good</b>
                         </div>
                     </section>
                 </div>
