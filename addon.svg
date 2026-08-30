@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="742" class="">
+    <defs>
+        <style/>
+    </defs>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}code,svg{color:#777}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.margin-lr-auto{margin-left:auto;margin-right:auto}.tracklist{display:flex;flex-direction:column;align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}code{background-color:#7777771f;display:inline-block;border-radius:6px;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style/>
+    <foreignObject x="0" y="0" width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
+            <section>
+                <h2 class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
+                    </svg>
+                    Lines of code pushed
+                </h2>
+                <div class="row margin-bottom">
+                    <h3 class="margin-lr-auto">Diff history</h3>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="480" height="315">
+                        <g transform="translate(0,276)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
+                            <path class="domain" stroke="currentColor" d="M39.5,6V0.5H441.5V6"/>
+                            <g class="tick" opacity="1" transform="translate(79.88675958188153,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">April</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(143.6184668989547,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">July</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(208.05052264808364,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">October</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(272.48257839721254,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">2026</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(335.5139372822299,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">April</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(399.2456445993031,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">July</text>
+                            </g>
+                        </g>
+                        <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
+                            <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
+                            <g class="tick" opacity="1" transform="translate(0,10.607056936647957)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">60k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,54.071371291098636)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">40k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,97.53568564554932)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">20k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,141)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,184.46431435445066)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−20k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,227.92862870890136)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−40k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,271.39294306335205)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em">−60k</text>
+                            </g>
+                        </g>
+                        <path d="M39,140.5L107.634,140.5L112.537,140.5L205.683,140.5L377.268,140.5L406.683,140.5L416.488,140.5L421.39,140.5L426.293,140.5L436.098,140.5L441,140.5L441,135.53L436.098,82.627L426.293,136.036L421.39,139.324L416.488,19.082L406.683,122.297L377.268,134.669L205.683,5L112.537,122.488L107.634,139.511L39,140.493Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L107.634,140.5L112.537,140.5L205.683,140.5L377.268,140.5L406.683,140.5L416.488,140.5L421.39,140.5L426.293,140.5L436.098,140.5L441,140.5L441,140.552L436.098,155.565L426.293,142.054L421.39,140.878L416.488,144.816L406.683,141.769L377.268,140.504L205.683,168.902L112.537,141.352L107.634,140.502L39,140.504Z" fill="rgb(218, 54, 51)"/>
+                    </svg>
+                </div>
+            </section>
+            <section>
+                <h2 class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"/>
+                    </svg>
+                    Suggested tracks
+                </h2>
+                <div class="row fill-width">
+                    <section>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M2.002 2.725a.75.75 0 01.797-.699C8.79 2.42 13.58 7.21 13.974 13.201a.75.75 0 11-1.497.098 10.502 10.502 0 00-9.776-9.776.75.75 0 01-.7-.798zM2 13a1 1 0 112 0 1 1 0 01-2 0zm.84-5.95a.75.75 0 00-.179 1.489c2.509.3 4.5 2.291 4.8 4.8a.75.75 0 101.49-.178A7.003 7.003 0 002.838 7.05z"/>
+                            </svg>
+                            From YouTube Music
+                        </div>
+                        <div class="tracklist">
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAA8ADwDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAgMEAQAFB//EADAQAAIBAwIEBAUDBQAAAAAAAAECAwAEEhEhEyIxUTJBYYEjQlJisQWh8BQ0kdHh/8QAGQEAAwEBAQAAAAAAAAAAAAAAAQIDBAAF/8QAKBEAAgIABAUDBQAAAAAAAAAAAQIAEQMSITETQWGhwSKB8BRRkdHx/9oADAMBAAIRAxEAPwD73FDPK3Anblj6Y9NKdLYWMUWU/wD0+1HIzrM8duuczE6t5AeRPtRJDHAeJctxpvx7UOU9U4jbg10Ejjs3ksxDaxskZkzdn228hrV0kaly1xOu/wAsQ/bWo5LmYxzaMzYjIK2m3pt1/NKgzZscs8QMm7nt/O9U4Rq5D6nMwVtD8/XaWf1CR8trCob6m3NDK0zD4rNvRqyWyM7L09KqUYAs3NIfq8qWq1jZ1BoCRR2ssmjY4r921UrBCg0c6tQPLI5OrUag6ULhJY7wDKsIMcXMx8bdz3pThY1MkmTfaBqayyBcmQ1SyhurUwoQP6dBvJrXLVuIuDSHILqNANOmvf8A36Up4nhW1XKNGD5yNqcmOvhHfrTpxFPG0OMjfcBpoe4Jqe0toY7plLM04GXNuQP5+aurbntPOdCSFGo+9+/jpGsNLkR5SOoJlOXfXYa9vP2FaJzNLLGOXh6L12O1FO88Fq+K8WZicMRso7k0i0C2yssvy4s7a7kt6ee+o9qUqWX5+YyOMNwNhz8Dz/ZbCh8Ro2O9cHy8PhrSajU3E2dYuCPG3VR70YjVRQRtsK3dtdfyR+9cJzXJr++itBjHzzHovkPU0iyguEUznnmdw0mXXHsPWmLZwpLxEj5h8xJO/fc0+8EzWuNt5g6tqOnatAZQMqe5MwPhYlnFxda2A5dt4q3nMnEkfLhklgoBY6dOg6dNfejjmivZQ8XhHL2OnahbKOyWK3XmVB2Gp70H6ZbPb2xy5WJLGlIWiwlMPiqyqw0ok9DPQKqp5eWs0NYmrJzVwB0qJmqcOHMPh8sn060SBCDmuOPWor2JYpuQke9KkupXUoW2Hn50LleFdUZTFNNPIzeCHyVQOnetljljY6SMynpsKZB/bCthlYbA02YyRQWSPMVFbu53kZfYU/iJGuI5v8Ui7mcDrU8fMN6BaMuFfqMtEjSOFFZLdLC5TtRIOHbu6+KvLRRIMn3JoCMiBib2E//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">迷っちゃうわ - Mayocchauwa</div>
+                                    <div class="artist"></div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">自己肯定感爆上げ↑↑しゅきしゅきソング - Self-affirmation Explosion! Love Love Song</div>
+                                    <div class="artist"></div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">ひゅるりらぱっぱ - HYURURIRAPAPPA</div>
+                                    <div class="artist"></div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">もうどうなってもいいや - I don't care</div>
+                                    <div class="artist"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </section>
+            <section>
+                <h2 class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path fill-rule="evenodd" d="M9.598 1.591a.75.75 0 01.785-.175 7 7 0 11-8.967 8.967.75.75 0 01.961-.96 5.5 5.5 0 007.046-7.046.75.75 0 01.175-.786zm1.616 1.945a7 7 0 01-7.678 7.678 5.5 5.5 0 107.678-7.678z"/>
+                    </svg>
+                    Fortune
+                </h2>
+                <div class="row">
+                    <section class="largeable-column-fields">
+                        <div class="field" style="padding-left: 31px">
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                        </div>
+                    </section>
+                </div>
+            </section>
+            <section class="steam">
+                <h2 class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path fill-rule="evenodd" d="M3.267 1.457c.3.286.312.76.026 1.06A6.475 6.475 0 001.5 7a6.472 6.472 0 001.793 4.483.75.75 0 01-1.086 1.034 8.89 8.89 0 01-.276-.304l.569-.49-.569.49A7.971 7.971 0 010 7c0-2.139.84-4.083 2.207-5.517a.75.75 0 011.06-.026zm9.466 0a.75.75 0 011.06.026A7.975 7.975 0 0116 7c0 2.139-.84 4.083-2.207 5.517a.75.75 0 11-1.086-1.034A6.475 6.475 0 0014.5 7a6.475 6.475 0 00-1.793-4.483.75.75 0 01.026-1.06zM8.75 8.582a1.75 1.75 0 10-1.5 0v5.668a.75.75 0 001.5 0V8.582zM5.331 4.736a.75.75 0 10-1.143-.972A4.983 4.983 0 003 7c0 1.227.443 2.352 1.177 3.222a.75.75 0 001.146-.967A3.483 3.483 0 014.5 7c0-.864.312-1.654.831-2.264zm6.492-.958a.75.75 0 00-1.146.967c.514.61.823 1.395.823 2.255 0 .86-.31 1.646-.823 2.255a.75.75 0 101.146.967A4.983 4.983 0 0013 7a4.983 4.983 0 00-1.177-3.222z"/>
+                    </svg>
+                    Steam
+                </h2>
+                <div class="row">
+                    <section>
+                        <div class="field error">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
+                            </svg>
+                            API error: 401
+                        </div>
+                    </section>
+                </div>
+            </section>
+        </div>
+        <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
+    </foreignObject>
+</svg>
