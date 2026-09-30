@@ -6,7 +6,7 @@
 
 在校学生 · 喜欢瞎折腾 · 偶尔写点能用的东西
 
-[Blog](https://ty0.icu) · [hyw.mom](https://hyw.mom) · [GitHub](https://github.com/YoisakiKnd)
+[文档](https://ty0.icu) · [博客](https://hyw.mom) · [GitHub](https://github.com/YoisakiKnd)
 
 <br/>
 
